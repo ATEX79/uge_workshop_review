@@ -1,0 +1,139 @@
+#this history printed out newest command to oldest.
+history
+ls
+cd Foundations_II/
+cd Documents/
+cd matthewbiggers/
+cd Users/
+pwd
+#this is the beginning of me going back to my "Home" directory. "Home" being
+#where I'm saving my Python assignments.
+man ls -a
+man
+ls -l
+ls -t
+cd /
+cd ..
+echo $PATH
+brew install fish
+brew doctor
+brew update
+python ex40.py
+#interesting that the history prints out such detail. The below is a list of results when I typed in "ls" in one directory.
+cd mystuff/
+cd LearnPython/
+cd Dave\ Matthews\ Band/
+cd Music/
+cd Automatically\ Add\ to\ iTunes/
+cd iTunes/
+cd mattBiggersHD/
+cd Volumes/
+cd ../..
+cd Desktop/
+python ex39.py
+python ex38.py
+python ex36.py
+open 151-11_0x16_5-69A.jpg
+151-11_0x16_5-69A.jpg
+cd Reference\ Pics/
+cd Photos
+cd Photos\ Library.photoslibrary/
+cd Library.photoslibrary
+cd Pictures/
+cd Library/
+python ex35.py
+python ex33.py
+python ex32.py
+python ex31.py
+python ex30.py
+python ex29.py
+python
+python ex26.py
+python ex25.py
+python ex24.py
+python ex21.py
+python ex20.py test.txt
+python ex20.py
+python ex19.py
+python ex18.py
+python ex18.py 35 79
+python ex18.py Matt Biggers
+python ex17.py test.txt new_file.txt
+cat text.txt
+echo "This is a test file." > test.txt
+python ex16.py test.txt
+python ex15.py ex15_sample.txt
+python ex14.py Matt
+python ex14.py
+python ex13.py first 2nd 3rd
+python ex13.py
+python ex12.py
+python ex11.py
+python ex10.py
+python ex9.py
+python ex8.py
+python ex7.py
+python ex6.py
+python ex5.py
+python ex4.py
+python modulus.py
+python ex3.py
+python ex1.py
+mkdir mystuff
+test.txt
+cd temp/
+cd /Users/matthewbiggers/Documents/Foundations_II/LearnPython/AppendixA/
+rmdir stuff/
+rmdir things/
+cd things/
+rmdir frank/
+rmdir joe
+rmdir alex
+rmdir john/
+cd things/frank/joe/alex/john
+cd stuff/
+cd ../../..
+cd john/
+cd alex/
+cd joe/
+cd frank/
+cd ~
+mkdir -p temp/stuff/things/frank/joe/alex/john
+mkdir temp/stuff/things
+mkdir temp/stuff/
+mkdir temp
+cd Foundations_I/
+cd Do
+cd
+ls -lR
+AppendixA/
+LearnPython/
+Foundations_II/
+Documents/
+mkdir /Users/matthewbiggers/Documents/Foundations_II/LearnPython/AppendixA/
+mkdir /Users/matthewbiggers/Documents/Foundations_II/LearnPython/
+mkdir /Users/matthewbiggers/Documents/Foundations_II/
+cd~
+pwed
+mkdir
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/QxUaOQ | sha
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'mpbiggers@gmail.com'
+git config --global user.name 'MATT BIGGERS'
+git --version
+brew install git
+subl /etc/paths
+echo $PATH
+echo $P
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+o download and install a better prompt, run the following command.
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
