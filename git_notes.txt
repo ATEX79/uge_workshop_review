@@ -1,0 +1,1 @@
+Notes about git. Go to http://cewing.github.io/cf-uge/making.html#55 for more information.
