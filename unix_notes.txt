@@ -1,4 +1,6 @@
 #this history printed out newest command to oldest.
+#see bottom of history file to see some additional Unix notes.
+
 history
 ls
 cd Foundations_II/
@@ -137,3 +139,7 @@ chsh -s /usr/local/bin/fish
 echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 uname
+
+#######
+
+there are hidden files in your git repository. you may view them by typing in ls -la.
